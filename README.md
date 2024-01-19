@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulo Anderson, aka, @Pucapuka
+- 👋 Hi, I’m Paulo Anderson.
 - 👀 I’m interested in almost all sorts of technology
 - 🌱 I’m currently focusing on Web Development (HTML, CSS, and Vanilla JS).
 - 💞️ I’m looking to collaborate on algorithmical solutions and software developing.
