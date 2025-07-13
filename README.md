@@ -77,7 +77,11 @@ Passionate about creating elegant solutions through code
 
 ## 🌱 My Coding Activity
 
-https://metrics.lecoq.io/Pucapuka?template=classic&base=header%252C%2520activity%252C%2520community%252C%2520repositories%252C%2520metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%252FSao_Paulo
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/Pucapuka?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
+</div>
 
 ## 💞️ Looking to Collaborate On
 ### - Algorithmically interesting projects
