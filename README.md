@@ -78,8 +78,11 @@ Passionate about creating elegant solutions through code
 ## 🌱 My Coding Activity
 
 <div align="center">
-  
-![Metrics](https://metrics.lecoq.io/Pucapuka?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pucapuka&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pucapuka&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 </div>
 
