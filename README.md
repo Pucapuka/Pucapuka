@@ -74,14 +74,6 @@ Passionate about creating elegant solutions through code
 
 ### - 🤖 Exploring AI/ML integration in web apps
 
-
-## 🌱 My Coding Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pucapuka&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pucapuka&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 </div>
