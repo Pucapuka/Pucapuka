@@ -4,15 +4,15 @@
 Passionate about creating elegant solutions through code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pauloandersonlima/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pucapuka&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 My Tech Stack
 
 ### 📊 GitHub Stats
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pucapuka&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pucapuka&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
