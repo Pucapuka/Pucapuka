@@ -54,7 +54,7 @@ Passionate about creating elegant solutions through code
 
 ## 🛠️ Technology Radar
 
-<div align="center">
+<div align="left">
 
 | Category      | Technologies |
 |---------------|--------------|
