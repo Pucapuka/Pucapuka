@@ -15,8 +15,6 @@ Passionate about creating elegant solutions through code
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
   
 </div>
-- 👀 I’m interested in almost all sorts of technology, specially software development;
-- 🌱 I’m currently focusing on Full-Stack web Development (Back-End with Java, JavaScript, TypeScript and Node, and Front-end with React and Angular).
 
 ## 💻 Technologies & Tools
 
