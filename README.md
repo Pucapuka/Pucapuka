@@ -53,12 +53,16 @@ Passionate about creating elegant solutions through code
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 
 ## 🛠️ Technology Radar
+
 <div align="center">
-Category	Technologies
-Frontend	https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white
-Backend	https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white
-Databases	https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white
-DevOps	https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black
+
+| Category      | Technologies |
+|---------------|--------------|
+| **Frontend**  | [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| **Backend**   | [![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/) [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/) [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
+| **Databases** | [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) |
+| **DevOps**    | [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) |
+
 </div>
 
 ## 📌 Currently Focusing On
